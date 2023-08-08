@@ -1,0 +1,5 @@
+# ignore dataset folder
+UCI - default of credit card clients_DATASET/
+
+# ignore workspace folder
+Credit Default Taiwan.code-workspace
